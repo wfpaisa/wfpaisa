@@ -1,14 +1,11 @@
 ```text
-   .--.       felipe@wfpaisa
-  |o_o |      --------------
-  |:_/ |      role     senior frontend developer
- //   \ \     from     colombia
-(|     | )    since    2006
-/'\_   _/`\   desktop  linux · gnome · gtk
-\___)=(___/   stack    typescript · javascript · node.js
-                       svelte · angular · vue · react
-                       html · css · sass · docker
-              design   figma · inkscape · svg · ux/ui
++-- margin ------+    felipe@wfpaisa
+| +- border ---+ |    --------------
+| | +- pad -+  | |    role     senior frontend developer
+| | |  ux   |  | |    from     colombia · since 2006
+| | +-------+  | |    desktop  linux · gnome · gtk
+| +------------+ |    stack    typescript · svelte · angular · vue
++----------------+    design   figma · inkscape · svg
 ```
 
 ## Hi, I'm Felipe Uribe
